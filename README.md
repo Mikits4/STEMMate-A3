@@ -2,6 +2,7 @@
 
 Team Members:
 - Mika Oberholzer
+- kapura sikomo
 
 Prototype: [link to prototype]
 
