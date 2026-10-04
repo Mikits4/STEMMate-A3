@@ -107,5 +107,3 @@ The system also shows when an action cannot be completed because there is no con
 ### Architecture decisions
 
 Local saved activities are used so that previously saved content is still available without internet. Activity information uses a consistent structure so that different activities can contain the same types of information.
-
-Pupil accounts, learner assessment, VR/AR and full LMS functionality are outside the A3 architecture.
