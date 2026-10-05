@@ -406,10 +406,3 @@ The interactive prototype should keep the same labels and general screen structu
 
 ---
 
-## AI Use Declaration
-
-ChatGPT was used to assist with organising and documenting the Version 1 UX/UI design and accessibility considerations.
-
-The final design decisions were checked against the requirements selected for the A3 prototype.
-
-AI was not used to generate participant feedback, testing results, repository history or other evidence that did not occur.
