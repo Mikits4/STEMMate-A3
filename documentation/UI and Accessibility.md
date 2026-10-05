@@ -7,6 +7,19 @@
 The purpose of the Version 1 design is to turn the agreed requirements into a simple interface that can be used to build the interactive prototype.
 
 The design is intentionally basic because this is the first prototype version. It focuses on clear navigation, readable information and the main facilitator tasks rather than advanced visual features.
+## Version 1 UI Prototype
+
+The Version 1 STEMMate interface was designed in Figma.
+
+Prototype:
+https://clear-angle-99207673.figma.site/
+
+The design provides the initial interface for the main facilitator
+workflows, including activity discovery, activity information,
+saved activities, session planning and offline/error feedback.
+
+This is the initial UX/UI version and may be revised after prototype
+testing and accessibility evaluation.
 
 
 
