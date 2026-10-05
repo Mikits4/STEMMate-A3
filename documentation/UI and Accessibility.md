@@ -8,7 +8,7 @@ The purpose of the Version 1 design is to turn the agreed requirements into a si
 
 The design is intentionally basic because this is the first prototype version. It focuses on clear navigation, readable information and the main facilitator tasks rather than advanced visual features.
 
----
+
 
 ## 1. Design Goals
 
@@ -23,7 +23,7 @@ The interface was designed with the following goals:
 - Keep the interface suitable for shared and lower-specification devices.
 - Provide clear feedback when the system is offline or an action fails.
 
----
+
 
 ## 2. User Flow
 
@@ -71,7 +71,6 @@ Offline / Error Message
 ↓  
 Open Saved Activities OR Try Again
 
----
 
 ## 3. Screen Designs
 
