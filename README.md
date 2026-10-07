@@ -1,7 +1,7 @@
 # STEMMate-A3
 
 Team Members:
-- Mika Oberholzer
+- Mika Oberholzer 224023500
 - kapura sikomo
 
 Prototype: [link to prototype]
