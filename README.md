@@ -1,8 +1,10 @@
 # STEMMate-A3
 
 Team Members:
-- Mika Oberholzer 224023500
-- kapura sikomo
+1. Ester hambongo 225110091
+2. ⁠Condolleeza Da Cruz 224072773
+3. ⁠kapura sikomo 225122790
+4. Mika Oberholzer 224023500
 
 Prototype: [link to prototype]
 
