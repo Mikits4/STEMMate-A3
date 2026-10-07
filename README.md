@@ -6,7 +6,7 @@ Team Members:
 3. ⁠kapura sikomo 225122790
 4. Mika Oberholzer 224023500
 
-Prototype: [[link to prototype]](https://clear-angle-99207673.figma.site/)
+Prototype: https://clear-angle-99207673.figma.site/
 
 ## Repository Contents
 - README
